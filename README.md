@@ -1,2 +1,2 @@
-# egypt-thing
-A game where you farm like you're an Ancient Egyptian.
+# Shemu!
+## An ancient egyptian farming simulator.
