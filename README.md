@@ -1,5 +1,5 @@
 # Shemu!
-## An ancient egyptian farming simulator.
+## An ancient Egyptian farming simulator.
 
 # Description
 # Credits
