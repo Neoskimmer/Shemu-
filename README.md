@@ -14,6 +14,8 @@ Mario Kart Wii - Dry Dry Ruins (Inside) - Asuka Hayazaki and Ryo Nagamatsu - Nin
 
 Papyrus Paper Background - Free background photos from https://pngtree.com/freebackground/aged-papyrus-exquisite-vintage-texture_13348510.html?sol=downref&id=bef
 
+Minecraft - Various Textures and Images - Notch - Mojang Studios & Microsoft Corporation
+
 ## Fonts
 
 Papyrus - Designed by Chris Costello
