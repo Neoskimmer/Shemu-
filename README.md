@@ -5,7 +5,7 @@
 
 ## Game Design
 
-The entire game was designed by me, Neoskimmer/Neo The Great/Felix Baker. Whatever you want to call me. Developed in [Turbowarp](https://turbowarp.org)
+The entire game was designed by me, Neoskimmer/Neo The Great/Felix Baker. Whatever you want to call me. Developed in [Turbowarp](https://turbowarp.org).
 
 ## Soundtrack
 
